@@ -1,6 +1,6 @@
 {
-  "name": "web-samples",
-  "description": "MyScript Web samples",
+  "name": "CUHACK2018---MyScript---Wolfram",
+  "description": "CUHACK2018---MyScript---Wolfram",
   "main": "index.html",
   "authors": [
     "yohann.streibel@myscript.com"
@@ -20,21 +20,18 @@
     "iron-icon": "PolymerElements/iron-icon#1 - 2",
     "myscript-common-element": "^4.1.1",
     "katex": "^0.8.3",
-
     "myscript-text-web": "4.1.x",
     "pepjs": "^0.4.3",
     "paper-button": "2.1.0",
-      "polymer": "^2.0.1",
-      "webcomponentsjs": "^1.0.1",
-      "iron-component-page": "^3.0.0",
-      "paper-swatch-picker": "^2.0.1",
-      "paper-toggle-button": "^2.0.0",
-      "paper-slider": "^2.0.2",
+    "polymer": "^2.0.1",
+    "webcomponentsjs": "^1.0.1",
+    "iron-component-page": "^3.0.0",
+    "paper-swatch-picker": "^2.0.1",
+    "paper-toggle-button": "^2.0.0",
+    "paper-slider": "^2.0.2",
     "web-component-tester": "^v6.0.0",
-    "webcomponsnetjs" : "1.2.0",
+    "webcomponsnetjs": "1.2.0",
     "myscript-math-web": "4.1.x"
-
-
   },
   "ignore": [
     "**/.*",
@@ -43,5 +40,4 @@
     "test",
     "tests"
   ]
-
 }
